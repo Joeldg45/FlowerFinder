@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "657632782891",
+    "firebase_url": "https://whatflower-3a770.firebaseio.com",
+    "project_id": "whatflower-3a770",
+    "storage_bucket": "whatflower-3a770.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657632782891:android:f2d26961a50c24347f186e",
+        "android_client_info": {
+          "package_name": "com.example.android.whatflower"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657632782891-bom08lh1iqdhhmubanm6d3t7n2m1g2vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.whatflower",
+            "certificate_hash": "701def8520117500d339b26b39775d86068f0db5"
+          }
+        },
+        {
+          "client_id": "657632782891-0fiuashrq6i9q7eoans5sklbp5dhuha2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApEDZa7XS8o4_FXaECT_wBZyk2ZBb1I8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657632782891-0fiuashrq6i9q7eoans5sklbp5dhuha2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
